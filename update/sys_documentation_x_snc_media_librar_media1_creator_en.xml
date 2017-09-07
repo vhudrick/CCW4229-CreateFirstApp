@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="creator" label="Creator" language="en" table="x_snc_media_librar_media1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>creator</element>
+            <help/>
+            <hint/>
+            <label>Creator</label>
+            <language>en</language>
+            <name>x_snc_media_librar_media1</name>
+            <plural>Creators</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-07 19:42:52</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>cb8f3ebd300503007f448c272a650fe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Creator</sys_name>
+            <sys_package display_value="Media Library" source="x_snc_media_librar">3458a92c518a32007f446637134c6055</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Media Library">3458a92c518a32007f446637134c6055</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_media_librar_media1_creator_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-07 19:42:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
